@@ -1,6 +1,6 @@
 ---
 name: swift-concurrency
-description: Use when working on Swift Concurrency, including async/await, tasks, actors, @MainActor, Sendable, Swift 6 migration, data races, thread safety, callback-to-async refactors, or concurrency-related compiler, SwiftLint, or linter warnings.
+description: Diagnose Swift Concurrency issues, refactor callback-based code to async/await, and guide Swift 6 migration when working with tasks, actors, @MainActor, Sendable, data races, thread safety, or concurrency-related compiler and linter warnings.
 ---
 # Swift Concurrency
 
